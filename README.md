@@ -1,2 +1,1 @@
-# Esp8266-deauther
-ESP8266 Deauther is a WiFi deauthentication tool based on the ESP8266 microcontroller. It sends deauth packets to disconnect devices from a WiFi network, allowing for network security testing. This tool can target multiple devices at once and is commonly used by security professionals and enthusiasts to assess WiFi vulnerabilities.
+ The ESP8266 Deauther is a WiFi deauthentication tool built around the ESP8266  microcontroller. It sends deauth packets to kick clients off a WiFi network, and that's useful  for security auditing. This tool can ping numerous devices at a time, and while it is not always  useful, it is used by security professionals and enthusiasts to find WiFi vulnerabilities.
